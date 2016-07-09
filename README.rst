@@ -1,26 +1,26 @@
-==========
-README
-==========
+=============
+ultrafast
+=============
 
 About
 ==========
 
 ultrafast is a Python package designed to facilitate numerical calculations for ultrafast optics.
 
-.. ENHANCEMENT: Add installation instructions
-
 Documentation
 =================
 
-.. ENHANCEMENT: Add documentation URL
+Documentation can be found at http://ultrafast.readthedocs.io
 
-Basic documentation can be found at http://www.github.com
+.. ENHANCEMENT: Add installation instructions
 
-Contact and Copyright
-=================================
+Repository
+============
 
-.. ENHANCEMENT: Add download and issue tracker URLs
+https://github.com/marceloalcocer/ultrafast
 
-:Copyright: Marcelo J P Alcocer, 2016, GNU General Public License. Copies of all licenses can be found in LICENSE.txt
-:Download: http://www.github.com
-:Issues: http://www.github.com
+License
+========
+
+Copyright © 2016 Marcelo J P Alcocer under the GNU General Public License. Copies of all licenses can be found in LICENSE.txt
+
