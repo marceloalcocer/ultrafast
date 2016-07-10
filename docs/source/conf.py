@@ -308,6 +308,6 @@ def setup(app):
 	))
 	app.connect("autodoc-process-docstring", cut_lines(
 		pre=1,
-		what=["module","class","method","function","attribute","data","exception"]
+		what=["class","method","function","attribute","data","exception"]
 	))
 

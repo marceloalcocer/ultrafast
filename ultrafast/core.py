@@ -101,7 +101,10 @@ class Material:
 	"""
 
 	comments = None
-	"""Comments"""
+	"""Comments string
+
+	Comments string
+	"""
 
 	_n = None
 	"""Dispersion function
