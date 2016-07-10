@@ -34,13 +34,6 @@ Requirements
 		- From source
 		- From PyPi
 
-	Installation
-	=============
-
-	Download the source archive from http://www.gitbug.com and unpack the archive. Add the 
-
-	ultrafast is a package to be used from Python (``import ultrafast``).
-
 License
 ========
 
