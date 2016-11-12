@@ -81,13 +81,6 @@ from urllib.parse import urlparse
 class Material:
 	"""Material class"""
 
-	# ENHANCEMENT: Add Fresnel coefficients
-	#
-	# 	Magnitudes and phases of both S and P pols. Perhaps as complex values?
-	#
-
-	# ENHANCEMENT: Add dielectric constants (requires k too)
-
 	name = None
 	"""Material name
 
@@ -499,9 +492,6 @@ class RIIDMaterial(Material):
 
 				# Tabulated dispersion
 				elif(self.type_.startswith("tabulated n")):
-					# ENHANCEMENT: RIIDMaterial: Tabulated data handling
-					#  - Range given by table extrema
-					#  - Interpolate
 					print("Tabulated dispersion function")
 
 					# Break out of datum loop once dispersion function found
